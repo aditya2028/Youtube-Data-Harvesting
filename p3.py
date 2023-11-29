@@ -551,4 +551,4 @@ elif question_tosql == '10. Which videos have the highest number of comments, an
     st.dataframe(df10)
 
 # Closing DB connection
-connect_for_question.close()
+#connect_for_question.close()
